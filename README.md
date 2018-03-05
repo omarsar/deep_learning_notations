@@ -4,7 +4,7 @@ by [Elvis Saravia](http://elvissaravia.com/)
 (Part of the [DAIR](https://medium.com/dair-ai) initiative)
 
 ---
-**Notebook: ** 📘 [Deep Learning Notations]() 📘
+**Notebook:** 📘 [Deep Learning Notations]() 📘
 
 **Aim:** This notebook contains useful notations widely used in deep learning papers and educational materials found online. I used similar notations used in the Deep Learning book written by Ian Goodfellow, Yoshua Bengio and Aaron Courville. I will also provide sample code using PyTorch to show the type of data structures and concepts these notation may represent.
 
@@ -13,4 +13,4 @@ by [Elvis Saravia](http://elvissaravia.com/)
 **Requirements:** [PyTorch](http://pytorch.org/)
 
 **Preview:**
-![alt txt]
+![alt txt](https://github.com/omarsar/deep_learning_notations/blob/master/deeplnotations.gif)
