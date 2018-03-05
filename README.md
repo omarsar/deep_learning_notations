@@ -15,3 +15,6 @@ by [Elvis Saravia](http://elvissaravia.com/)
 **Preview:**  
 
 ![alt txt](https://github.com/omarsar/deep_learning_notations/blob/master/deeplnotations.gif)
+
+
+**Future:** There are plenty of mathematical concepts and notations which can be added to this notebook. I will continue to add as time passes. If you are into this kind of thing, feel free to make a pull request. My hope is that it provides a useful mathematical foundation and reference for beginners in the field of machine learning and deep learning. 
