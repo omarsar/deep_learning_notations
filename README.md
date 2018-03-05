@@ -12,5 +12,6 @@ by [Elvis Saravia](http://elvissaravia.com/)
 
 **Requirements:** [PyTorch](http://pytorch.org/)
 
-**Preview:**
+**Preview:**  
+
 ![alt txt](https://github.com/omarsar/deep_learning_notations/blob/master/deeplnotations.gif)
